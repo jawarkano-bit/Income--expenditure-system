@@ -2,7 +2,7 @@
 
 A financial automation platform for SMEs - automates income tracking, expenditure management, QR-coded receipt generation, and multi-payment integration (Cash, MoMo, Card).
 
-**Developer:** Awarkano Kofi John | Methodist University Ghana | BSc Information Systems
+**Developer:** Awarkano Kofi John | Sunyani technical University Ghana | BSc Information Systems
 **Stack:** Django, PostgreSQL, Python, JavaScript
 
 ## Problem Solved
